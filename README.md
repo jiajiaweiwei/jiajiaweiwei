@@ -32,20 +32,14 @@
 
 <details open> 
   <summary><h2>😊 Who am I? 🤔</h2></summary>
-  <h3>🐹 A Gopher</h3>
-  <h3>💰 A Smart Contract Developer</h3>
-  <h3>🌐 A Full-Stack Developer</h3>
+  <h3>🐹 A Gopher, 💰 A Smart Contract Developer, and 🌐 A Full-Stack Developer</h3>
 </details>
 
 <details open> 
   <summary><h2>👨‍💻 What Areas Am I Interested In? 🔍</h2></summary>
-  <h3>🐹 Go</h3>
-  <h3>🦀 Rust</h3>
-  <h3>🌱 Open Source</h3>
-  <h3>💻 Smart Contracts</h3>
-  <h3>📊 Quantitative Trading</h3>
-  <h3>🔗 Blockchain and Distributed Systems</h3>
-  <h3>🎮 Game Development</h3>
+  <h3>🐹 Go, 🦀 Rust, 🌱 Open Source, 💻 Smart Contracts</h3>
+  <h3>📊 Quantitative Trading, 🔗 Blockchain and Distributed Systems, 🎮 Game Development</h3>
 </details>
+
 
 
